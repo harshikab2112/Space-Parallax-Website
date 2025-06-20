@@ -5,7 +5,7 @@ A visually stunning parallax scrolling website built with **HTML** and **CSS**, 
 ---
 
 ## 🌐 Live Preview
-[Live Preview](https://responsive-profile-card-hb.vercel.app/)
+[Live Preview](https://space-parallax-website-hb.vercel.app/)
 
 ---
 
